@@ -1,0 +1,71 @@
+.btn-page{
+	color: #fff !important;
+	background-color: #00bcd4 !important;
+	border-color: #00bcd4 !important;
+	border-radius: 4px !important ;
+	margin: 1px !important
+}
+
+#Goto input{
+	height: 30px ;
+	width: 40px ;
+	font-size: 20px !important;
+	text-align: center !important;
+}
+
+td .btn{
+	color: #fff!important
+}
+
+.btn-icons{
+	border: 0;
+	border-radius: 4px!important;
+	transition: all .3s;
+	padding: 0 11px;
+	margin: 0 3px;
+	min-width: 30px;
+	height: 30px;
+	line-height: 30px;
+	color: #999;
+	font-weight: 400;
+	font-size: 12px;
+	text-transform: uppercase;
+	background: transparent;
+	text-align: center;
+}
+
+.fa{
+	color:white;
+}
+
+.hidden{
+	display: none !important;
+}
+
+.text-white{
+	color: white !important;
+}
+
+.loading-gif-image{
+	height: 60px
+}
+.bold{
+	font-weight: bold !important ;
+}
+.content{
+	padding-top: 0px !important
+}
+.table{
+	overflow-x: auto ;
+	min-width: 500px
+}
+.table>thead>tr>th{
+	font-weight: bold;
+}
+.black{
+	color:black !important;
+}
+.form-control[readonly] {
+	background-color: #fff !important;
+}
+
