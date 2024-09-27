@@ -1,0 +1,7 @@
+Untuk mengonfigurasi database agar dapat terbaca, sesuaikan : base_url = base_url + "nama_folder/" ;
+di dalam file di nama_folder\assets\app\app.js (line 3)
+
+contoh : 
+nama folder = Inventori_Sekolah
+base_url = base_url + "Inventori_Sekolah/" ;  
+
